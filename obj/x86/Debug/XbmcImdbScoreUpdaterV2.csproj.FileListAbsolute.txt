@@ -1,0 +1,18 @@
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.csprojResolveAssemblyReference.cache
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.Properties.Resources.resources
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.csproj.GenerateResource.Cache
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\bin\Debug\XbmcImdbScoreUpdaterV2.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\bin\Debug\XbmcImdbScoreUpdaterV2.pdb
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.exe
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.pdb
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\bin\Debug\XbmcImdbScoreUpdaterV2.exe.config
+C:\Users\Simon Stanford\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.Form1.resources
+C:\Users\Simon\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\bin\Debug\XbmcImdbScoreUpdaterV2.exe.config
+C:\Users\Simon\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.exe
+C:\Users\Simon\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.pdb
+C:\Users\Simon\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\bin\Debug\XbmcImdbScoreUpdaterV2.exe
+C:\Users\Simon\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\bin\Debug\XbmcImdbScoreUpdaterV2.pdb
+C:\Users\Simon\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.csprojResolveAssemblyReference.cache
+C:\Users\Simon\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.Form1.resources
+C:\Users\Simon\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.Properties.Resources.resources
+C:\Users\Simon\Dropbox\PC\Visual Studio 2010\Projects\XbmcImdbScoreUpdaterV2\XbmcImdbScoreUpdaterV2\obj\x86\Debug\XbmcImdbScoreUpdaterV2.csproj.GenerateResource.Cache
