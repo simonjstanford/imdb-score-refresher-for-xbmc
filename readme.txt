@@ -22,4 +22,4 @@ No - the DLLs for MySQL and Sqlite have been included in the download, so nothin
     - Minor bug fixes
 
 2.5 - Implemented scraper for IMDB website. Now scores are retrieved directly from IMDB instead of via a web service.
-      - Error log added
+    - Error log added
