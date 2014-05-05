@@ -17,6 +17,10 @@ Those not using a Windows server may need to capitalise the database name, e.g. 
 
 No - the DLLs for MySQL and Sqlite have been included in the download, so nothing else is required.
 
+*Is this app compatible with XBMC 13.0 Gotham?
+
+Yes - just change the database name to MyVideos78.
+
 ==Changelog==
 
 1.0 - Local Sqlite database support added for movies
