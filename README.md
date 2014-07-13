@@ -1,7 +1,7 @@
 # XBMC Film Score Refresher #
 
 
-Searches a local [SQLite](http://www.sqlite.org) or remote [MySQL](http://www.mysql.com) [XBMC](http://xbmc.org/about/) databases and refreshes film [IMDB](http://www.imdb.com/) scores.  It is fully tested with XBMC 12.0 Frodo.  Unfortunately this doesn't work with TV episodes, but there only seems to be a few hundred votes per individual episode so is probably not worth the effort.
+Searches a local [SQLite](http://www.sqlite.org) or remote [MySQL](http://www.mysql.com) [XBMC](http://xbmc.org/about/) databases and refreshes film [IMDB](http://www.imdb.com/) scores.  It is fully tested with XBMC 12.0 Frodo.  Unfortunately this doesn't work with TV episodes, but there is a few hundred votes per individual episode so the score is not accurate.
 
 ## FAQ ##
 
